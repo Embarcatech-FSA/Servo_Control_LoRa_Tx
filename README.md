@@ -1,4 +1,4 @@
-
+### Este é o repositório referente ao transmissor. Acesse o repositório do receptor através deste link: [Receptor](https://github.com/Embarcatech-FSA/Servo_Control_LoRa_Rx.git).
 ---
 
 # Controle Remoto de Servo Motor via LoRa com Raspberry Pi Pico
